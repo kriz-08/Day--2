@@ -1,7 +1,7 @@
 :root {
-  --primary: #e11d48; /* A vivid red */
-  --accent: #f87171;  /* A soft/light red */
-  --dark: #111827;    /* Almost black (Tailwind slate-900) */
+  --primary: #e11d48; 
+  --accent: #f87171; 
+  --dark: #111827;  
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-custom {
-  background: linear-gradient(135deg, var(--dark), #1f2937); /* dark to gray-800 */
+  background: linear-gradient(135deg, var(--dark), #1f2937); 
   backdrop-filter: blur(10px);
 }
 
